@@ -1,0 +1,60 @@
+# Generated with AI
+
+# Ignore IntelliJ project-specific files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Ignore IntelliJ workspace files
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf/
+
+# Ignore Maven target directory
+quartz-dynamodb/target/
+
+# Ignore Maven dependency caches (can be large and unnecessary)
+.mvn/
+.mvnw
+.mvnw.cmd
+
+# Ignore compiled files and logs
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Ignore build tools artifacts
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Ignore test reports
+test-output/
+surefire-reports/
+
+# Ignore Java-specific files
+*.log
+*.ctxt
+*.out
+
+# Ignore IDE-specific files
+.vscode/
+*.code-workspace
+*.idea/
+
+# Ignore environmental files
+.env
+.env.local
+.env.*.local
